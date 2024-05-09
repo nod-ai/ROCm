@@ -27,7 +27,7 @@
     <project name="hipother" />
     <project name="HIPIFY" />
 <!-- The following projects are all associated with the AMDGPU LLVM compiler -->
-    <project name="llvm-project" />
+    <project name="llvm-project" revision="amd-staging" />
     <project name="half" />
 <!-- gdb projects -->
     <project name="ROCgdb" />
